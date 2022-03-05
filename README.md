@@ -6,7 +6,7 @@ If there's any search engine not on the list, or anything not measured in this r
 
 ## Search Engines
 || [Duckduckgo](duckduckgo.com)|[Brave Search](search.brave.com)|[Ecosia](ecosia.org)|
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 
 
 ## Inspirations
