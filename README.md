@@ -15,7 +15,9 @@ If there's any search engine not on the list, or anything not measured in this r
 |Pays Users|❌|❌|❌|✅|❌|❌|
 |Self Host|❌|❌|❌|❌|✅|✅|
 |Replace Links|❌|❌|❌|❌|✅|❌|
-|DDG Bangs|✅|✅|❌|❌|✅|❌
+|DDG Bangs|✅|✅|❌|❌|✅|❌|
+|Donates to Charity|✅|✅|✅|❌|N/A|N/A|
+|Ad-free|❌|❌|❌|❌|✅|✅|
 
 
 
