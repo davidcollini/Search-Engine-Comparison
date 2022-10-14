@@ -10,7 +10,7 @@ If there's any search engine not on the list, or anything not measured in this r
 |Javascript Optional| ✅ <br />Only general results|✅ <br />No images| ✅| ❌|✅|✅ <br /> Harder to switch categories|
 |Tor Support|✅|✅|✅|✅|✅|✅|
 |Independent Index|❌|✅|❌|❌|❌|❌|
-|Dark Mode|(Javascript)|(Javascript/System Theme)|❌|❌|✅|✅|
+|Dark Mode|✅|✅|❌|❌|✅|✅|
 |Decentralized|❌|❌|❌|✅|❌|❌|
 |Pays Users|❌|❌|❌|✅|❌|❌|
 |Self Host|❌|❌|❌|❌|✅|✅|
