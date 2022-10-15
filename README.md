@@ -114,20 +114,8 @@
     <th>✅</th>
     <th>✅</th>
   </tr>
-|| [Duckduckgo](duckduckgo.com)|[Brave Search](search.brave.com)|[Ecosia](ecosia.org)|[Presearch](presearch.org)|[Whoogle](https://github.com/benbusby/whoogle-search)|[Searx](https://github.com/searx/searx)|
-| :---: | :---: | :---: | :---: | :---:| :---:| :---:|
-|Javascript Optional| ✅ <br />Only general results|✅ <br />No images| ✅| ❌|✅|✅ <br /> Harder to switch categories|
-|Tor Support|✅|✅|✅|✅|✅|✅|
-|Independent Index|❌|✅|❌|❌|❌|❌|
-|Dark Mode|✅|✅|❌|❌|✅|✅|
-|Decentralized|❌|❌|❌|✅|❌|❌|
-|Pays Users|❌|❌|❌|✅|❌|❌|
-|Self Host|❌|❌|❌|❌|✅|✅|
-|Replace Links|❌|❌|❌|❌|✅|❌|
-|DDG Bangs|✅|✅|❌|❌|✅|❌|
-|Donates to Charity|✅|✅|✅|❌|N/A|N/A|
-|Ad-free|❌|❌|❌|❌|✅|✅|
-
+</table>
+  
 <h2>Inspirations</h2>
   <ul>
     <li><a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics </li>
