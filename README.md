@@ -8,17 +8,17 @@
 <table>
   <tr>
     <th> </th>
-    <th><a href="duckduckgo.com"><img src="https://duckduckgo.com/assets/common/dax-logo.svg" alt="DDG Logo" width="36" height="36"> <br /> Duckduckgo</a></th>
-    <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
-    <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
-    <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
-    <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
-    <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
+    <th><a href="https://www.duckduckgo.com"><img src="https://duckduckgo.com/assets/common/dax-logo.svg" alt="DDG Logo" width="36" height="36"> <br /> Duckduckgo</a></th>
+    <th><a href="https://search.brave.com/"><img src="https://cdn.search.brave.com/serp/v1/static/brand/0afc6092b0fe05d8a9414d0b27ee3749523d824099384649a75b6a4c22d1cf54-ogImg.png" alt="Brave Search Logo"height="36"> <br /> Brave Search</a></th>
+    <th><a href="https://www.ecosia.org/"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/10/cd/b4/10cdb4e6-769f-0a67-e501-b510ade7aa46/AppIcon_Ecosia-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg" alt="Ecosia Logo" width="36" height="36"> <br /> Ecosia</a></th>
+    <th><a href="https://presearch.io/"><img src="https://cryptologos.cc/logos/presearch-pre-logo.png" alt="Presearch Logo" width="36" height="36"> <br /> Presearch</a></th>
+    <th><a href="https://github.com/benbusby/whoogle-search"><img src="https://preview.redd.it/4alqumb2xqi81.png?width=192&format=png&auto=webp&s=05f078627d3b9d7f1f82e002d5388efc6ee3c63a" alt="Whoogle Logo" width="36" height="36"> <br /> Whoogle</a></th>
+    <th><a href="https://github.com/searx/searx"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Searx_logo.svg/1200px-Searx_logo.svg.png" alt="Searx Logo" width="36" height="36"> <br /> Searx</a></th>
   </tr>
   <tr>
     <th>Optional Javascript</th>
     <th>✅ <br /> Only general results </th>
-    <th>✅ <br /> no images </th>
+    <th>✅ <br /> No images </th>
     <th>✅</th>
     <th>❌</th>
     <th>✅</th>
@@ -56,8 +56,8 @@
     <th>❌</th>
     <th>❌</th>
     <th>❌</th>
-    <th>❌</th>
     <th>✅</th>
+    <th>❌</th>
     <th>❌</th>
   </tr>
   <tr>
@@ -65,8 +65,8 @@
     <th>❌</th>
     <th>❌</th>
     <th>❌</th>
-    <th>❌</th>
     <th>✅</th>
+    <th>❌</th>
     <th>❌</th>
   </tr>
   <tr>
